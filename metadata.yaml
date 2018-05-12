@@ -1,0 +1,30 @@
+_repo: Edge-of-the-Jungle_25888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beebe, William
+    aliases:
+    - Beebe, C. William (Charles William)
+    - Beebe, Charles William
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '31644'
+    url: http://www.gutenberg.org/2009/agents/31644
+    wikipedia: http://en.wikipedia.org/wiki/William_Beebe
+description: ''
+gutenberg_issued: '2008-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Guyana'
+- !lcc 'QH'
+title: Edge of the Jungle
+url: http://www.gutenberg.org/ebooks/25888
